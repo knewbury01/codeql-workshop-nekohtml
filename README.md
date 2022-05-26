@@ -10,7 +10,7 @@ If you are on OSX, after downloading the CLI and library, you will need to clear
 
 ### Database creation:
 
-For our May 25th session, please download the pre-made databases from [here](https://drive.google.com/drive/folders/1ceuNW7gxj9IJxX7qJEV1-FKrKJ3Dyauu?usp=sharing).
+Pre-made databases can be downloaded from [here](https://drive.google.com/drive/folders/1ceuNW7gxj9IJxX7qJEV1-FKrKJ3Dyauu?usp=sharing).
 
 ##### alternate database creation:
 
